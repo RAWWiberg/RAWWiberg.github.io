@@ -10,10 +10,10 @@ title: About me
 I am evolutionary biologist with an interest in sexual selection and conflict. I apply the methods of modern genomics to try to understand how sexual selection and sexual conflict drive evolutionary change. 
 
 **Currently**  
-2023 - : I am an independent fellow at [Stockholm University, Sweden](https://www.su.se/english/profiles/axwi1185-1.644092). My work focuses on understanding the genomic basis of sexually antagonistic coevolution. My ongoing project investigates the consequences of natural variation in the sex-peptide network of *Drosophila melanogaster* on outcomes of mating interactions and fitness consequences for males and females.
+2023 - : I am an independent fellow at [Stockholm University, Sweden](https://www.su.se/english/profiles/axwi1185-1.644092). My work focuses on understanding the genomic basis of sexually antagonistic coevolution. My ongoing project investigates the consequences of natural variation in the sex-peptide network of *Drosophila melanogaster* on outcomes of mating interactions, and the fitness consequences for males and females.
 
 **In the past**  
-2022 - 2023: I was a postdoc in the group of Dr. [Elina Immonen](https://immonenelina.wordpress.com/) at Uppsala University in Sweden. My work investigated gene expression changes in response to different forms of selection for increased sexual dimorphism in the seed beetle *Callosobruchus maculatus*.
+2022 - 2023: I worked as a postdoc in the group of Dr. [Elina Immonen](https://immonenelina.wordpress.com/) at Uppsala University in Sweden. My work investigated gene expression changes in response to different forms of selection for increased sexual dimorphism in the seed beetle *Callosobruchus maculatus*.
 
 2017 - 2021: I worked as a post-doc in the group of Dr. [Lukas Schärer](http://evolution.unibas.ch/scharer/) at the University of Basel, in Switzerland, where my work involved comparative genomics in a genus of hermaphroditic flatworms called *Macrostomum*. My research focused on the molecular evolution of reproduction-related genes (genes expressed in the ovaries, testes and prostate glands) in the genus *Macrostomum*. I applied comparative methods to understand sequence evolution as well as gene gain and loss across several species of this genus. Additionally, worked on assembling genomes for additional species in this clade (*M. hystrix* and *M. cliftonensis*) to improve and expand the available genetic resources.
 
