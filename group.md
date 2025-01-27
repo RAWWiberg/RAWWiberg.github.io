@@ -3,6 +3,8 @@ layout: page
 title: The research group
 ---
 
+Although I don't always have positions advertised, I am always looking for motivated students and postdocs to join my group. Please get in touch if you would like to discuss opportunities.
+
 **Current group members**
 
 |![yasmin_naz_akyürek](/img/yasmin_naz_akyürek_cropped.jpg){: height="100"; width="100"}|  

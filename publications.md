@@ -7,7 +7,7 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 (\* - corresponding author, 1 - joint first author)
 
 **2024**  
-**R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Varpu Pärssinen, Darryl T. Gwynne & Luc F. Bussière. Sexually antagonistic co-evolution can explain female display signals and male sensory adaptations. *Evolution*. XX:XX-XX. [PDF](https://academic.oup.com/evolut/advance-article-pdf/doi/10.1093/evolut/qpae133/59459334/qpae133.pdf)
+**R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Varpu Pärssinen, Darryl T. Gwynne & Luc F. Bussière. Sexually antagonistic co-evolution can explain female display signals and male sensory adaptations. *Evolution*. **78**:2006-2016. [PDF](https://academic.oup.com/evolut/advance-article-pdf/doi/10.1093/evolut/qpae133/59459334/qpae133.pdf)
 
 
 **2023**  
