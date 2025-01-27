@@ -5,7 +5,7 @@ title: The research group
 
 **Current group members**
 
-|![yasmin_naz_akyürek](/img/yasmin_naz_akyürek_cropped.png){: height="100"; width="100"}|  
+|![yasmin_naz_akyürek](/img/yasmin_naz_akyürek_cropped.jpg){: height="100"; width="100"}|  
 |--|
 |**Yasmin Naz Akyürek**|
 
