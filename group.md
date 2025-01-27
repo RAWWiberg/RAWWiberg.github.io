@@ -7,7 +7,7 @@ Although I don't always have positions advertised, I am always looking for motiv
 
 **Current group members**
 
-|![yasmin_naz_akyürek](/img/yasmin_naz_akyürek_cropped.jpg){: height="100"; width="100"}|  
+|![yasmin_naz_akyürek](/img/yasmin_naz_akyürek_cropped.jpg){: height="200"; width="200"}|  
 |--|
 |**Yasmin Naz Akyürek**|
 
@@ -18,7 +18,7 @@ Yasmin is a PhD student in the research group of [Dr. Cristina Tuni](https://sit
 
 **Former students**  
 
-|![alma_thorson](/img/default_grp_member.png){: height="100"; width="100"}|  
+|![alma_thorson](/img/default_grp_member.png){: height="200"; width="200"}|  
 |--|
 |**Alma Thorson**|
 
