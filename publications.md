@@ -8,7 +8,11 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 
 **2024**  
 **R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Varpu Pärssinen, Darryl T. Gwynne & Luc F. Bussière. Sexually antagonistic co-evolution can explain female display signals and male sensory adaptations. *Evolution*. **78**:2006-2016. [PDF](https://academic.oup.com/evolut/advance-article-pdf/doi/10.1093/evolut/qpae133/59459334/qpae133.pdf)
-
+Press for this paper:
+[Newsweek](https://www.newsweek.com/evolution-flies-male-female-sharpen-eyesight-2026374)
+[Aftonbladet](https://www.aftonbladet.se/nyheter/a/73orm4/damernas-raggknep-stor-mage-och-hariga-ben)
+[Göteborgs-posten](https://www.gp.se/nyheter/sverige/damernas-raggknep-stor-mage-och-hariga-ben.dab59e8d-a5ba-518d-bd8d-effcf32ccbf7)
+Hufvudstadsbladet: (14 Feb. 2025. pp. 22)
 
 **2023**  
 **R. Axel W. Wiberg\***, Jeremias N. Brand, Gudrun Viktorin, Jack Mitchell, Christian Beisel, Lukas Schärer. Genome assemblies of the simultaneously hermaphroditic flatworms Macrostomum cliftonense and Macrostomum hystrix. *G3 Genes|Genomes|Genetics*. **13**: jkad149. [PDF](https://academic.oup.com/g3journal/article-pdf/13/9/jkad149/56720105/jkad149.pdf)
