@@ -17,6 +17,6 @@ Till Göteborgs-posten kom det sedan en liten [insändare från en läsare](http
 > 
 > Sen finns det praktiska aspekter till sådan grundforskning som vi gör. Kunskap om hur urval genererar mångfald har applikationer som sträcker sig långt bortom de enstaka arterna som just denna forskning handlar om. Detta inkluderar utmaningen att bevara hotade arter och ekosystem, men också att skapa processerer för att motverka utvecklingen av resistens mot de kontrollmekanismer vi använder för att skydda våra grödor mot skadedjur eller skydda vår hälsa mot djur som bär på farliga skjukdomar. Framgång i dessa, och andra områden förbättras avsevärt av grundforskning i ett mångfald av arter, inklusive dansflugor, även om det kan vara svårt att förutspå just vilken forskning och vilka upptäckter som kommer att leda till framsteg som direkt gynnar oss människor.
 > 
-> Axel Wiberg, evolutionsbiolog, Stockholms Universitet
+> Axel Wiberg, evolutionsbiolog, Stockholms Universitet  
 > Luc Bussière, evolutionsbiolog, Göteborgs Universitet
 
