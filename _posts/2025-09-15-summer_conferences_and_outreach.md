@@ -22,7 +22,7 @@ I had a great time giving my talk and I thought there was a great turn out.
 
 |![me_doing_outreach](/img/festa_de_gracia2025_me_doing_outreach.jpg)|  
 |--|  
-|My giving a short public talk at Festa Major de Gracia|  
+|My giving a short public talk at Festa Major de Gracia. Photo credit to Jeremias Brand|  
 
 
 |![honeycomb_street](/img/festa_de_gracia2025_honeycomb_street.jpg)|  
