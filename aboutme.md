@@ -13,7 +13,7 @@ I am evolutionary biologist with an interest in sexual selection and conflict. I
 2025 - : I am carrying on my work as a researcher at [Stockholm University, Sweden](https://www.su.se/english/profiles/axwi1185-1.644092). I will carry on my work on the genomic basis of sexually antagonistic coevolution, and also investigate the interaction between sexual conflict and local ecology and environemt.
 
 **In the past**  
-2023 - 2025: I was a Marie Sklodowska Curie Actions independent research fellow at [Stockholm University, Sweden](https://www.su.se/english/profiles/axwi1185-1.644092). My work focused on understanding the genomic basis of sexually antagonistic coevolution. My ongoing project investigates the consequences of natural variation in the sex-peptide network of *Drosophila melanogaster* on outcomes of mating interactions, and the fitness consequences for males and females.
+2023 - 2025: I was a Marie Sklodowska Curie Independent Research Fellow at [Stockholm University, Sweden](https://www.su.se/english/profiles/axwi1185-1.644092). My work focused on understanding the genomic basis of sexually antagonistic coevolution. My ongoing project investigates the consequences of natural variation in the sex-peptide network of *Drosophila melanogaster* on outcomes of mating interactions, and the fitness consequences for males and females.
 
 2022 - 2023: I worked as a postdoc in the group of Dr. [Elina Immonen](https://immonenelina.wordpress.com/) at Uppsala University in Sweden. My work investigated gene expression changes in response to different forms of selection for increased sexual dimorphism in the seed beetle *Callosobruchus maculatus*.
 
@@ -26,10 +26,13 @@ I am evolutionary biologist with an interest in sexual selection and conflict. I
 2008 - 2012: For my B.Sc. thesis I studied sexual dimorphism in dance flies (Diptera: Empididae). Species vary in the levels of female ornamentation and in exaggerated male eye structures. Sexual conflict over matings and nuptial gift resource allocation as well as sexually antagonistic coevolution offer compelling explanations for patterns of covariation in male eye exaggerations and female ornamentation seen across taxa in this group of flies.
 
 **CV in brief**  
-2023-	  :	Independent Fellow, Stockholm University
-2022-2023 : Post-doc, Immonen group, Uppsala University  
-2017-2021 : Post-doc, Schärer group, University of Basel  
-2013-2017 : Ph.D. in Evolutionary Biology and Genomics, University of St Andrews, Scotland, (Supervised by Professor Mike Ritchie)  
-2012-2013 : M.Sc. in Quantitative Genetics and Genome Analysis, University of Edinburgh, Scotland  
-2008-2012 : B.Sc. in Animal Biology, University of Stirling, Scotland  
-1988 : Born, in Finland  
+2025- :	Independent Fellow, Stockholm University.  
+	2026 : Docent (Reader)
+2023-2025 :	Marie Sklodowska-Curie Independent Fellow, Stockholm University.  
+2022-2023 : Post-doc, Immonen group, Uppsala University.  
+2017-2021 : Post-doc, Schärer group, University of Basel.  
+2013-2017 : Ph.D. in Evolutionary Biology and Genomics, University of St Andrews, Scotland.  
+(Supervised by Professor Mike Ritchie)  
+2012-2013 : M.Sc. in Quantitative Genetics and Genome Analysis, University of Edinburgh, Scotland.  
+2008-2012 : B.Sc. in Animal Biology, University of Stirling, Scotland.  
+1988 : Born, in Finland.  
