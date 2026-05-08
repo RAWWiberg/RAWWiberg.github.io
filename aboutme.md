@@ -26,8 +26,8 @@ I am evolutionary biologist with an interest in sexual selection and conflict. I
 2008 - 2012: For my B.Sc. thesis I studied sexual dimorphism in dance flies (Diptera: Empididae). Species vary in the levels of female ornamentation and in exaggerated male eye structures. Sexual conflict over matings and nuptial gift resource allocation as well as sexually antagonistic coevolution offer compelling explanations for patterns of covariation in male eye exaggerations and female ornamentation seen across taxa in this group of flies.
 
 **CV in brief**  
-2025- :	Independent Fellow, Stockholm University.  
-	2026 : Docent (Reader)
+2025- :	Researcher, Stockholm University.  
+2026 : Docent (Reader)  
 2023-2025 :	Marie Sklodowska-Curie Independent Fellow, Stockholm University.  
 2022-2023 : Post-doc, Immonen group, Uppsala University.  
 2017-2021 : Post-doc, Schärer group, University of Basel.  

@@ -26,7 +26,7 @@ Yasmin is a PhD student in the research group of [Dr. Cristina Tuni](https://sit
 
 **MsC Students**
 
-|![marianne_richardson](/img/marianne_richards_cropped.png){: height="200"; width="200"}|  
+|![marianne_richardson](/img/marianne_richards_cropped.jpg){: height="200"; width="200"}|  
 |--|
 |**Marianne Richardson**|
 
