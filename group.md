@@ -7,15 +7,15 @@ Although I don't always have positions advertised, I am always looking for motiv
 
 **Current group members**
 
-**Post-Docs**
+**Postdocs**
 
 |![jessica_hadlow](/img/jessica_hadlow_cropped_small.png){: height="200"; width="200"}|  
 |--|
 |**Jessica Hadlow**|
 
-Jessica is a post-doc in my research group since June 2026.
+Jessica is a postdoc in my research group since June 2026.
 
-"My research background combines experimental approaches in reproductive biology with evolutionary theory, with a focus on gamete-environment interactions. I completed my PhD at the University of Western Australia, where I examined how ecological and physiological environments, in particular female reproductive fluids, shape fertilisation dynamics in the blue mussel, Mytilus galloprovincialis. I have since worked as a postdoc in Rhonda Snook’s lab at Stockholm University, contributing to research on sexual selection, speciation, and the evolution of sperm morphology and motility in insects, using several Drosophila species as models. I am also currently investigating the effect of heatwaves on female fertility in wild isopod populations as a part of The European Thermal Fertility Network.
+"My research background combines experimental approaches in reproductive biology with evolutionary theory, with a focus on gamete-environment interactions. I completed my PhD at the University of Western Australia, where I examined how ecological and physiological environments, in particular female reproductive fluids, shape fertilisation dynamics in the blue mussel, *Mytilus galloprovincialis*. I have since worked as a postdoc in Rhonda Snook’s lab at Stockholm University, contributing to research on sexual selection, speciation, and the evolution of sperm morphology and motility in insects, using several *Drosophila* species as models. I am also currently investigating the effect of heatwaves on female fertility in wild isopod populations as a part of The European Thermal Fertility Network.
 
 In my postdoc position with Axel Wiberg at Stockholm University, we will study the ecological and genetic basis of sexual conflict in *Drosophila melanogaster*."
 
