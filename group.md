@@ -29,7 +29,7 @@ Yasmin is a PhD student in the research group of [Dr. Cristina Tuni](https://sit
 
 "My PhD project at the University of Turin is on the effects of heatwaves on the reproductive behaviour of tropical and temperate insects. To explore this, I perform common garden experiments on the field cricket, a model organism in study of sexual selection, collected from Madagascar and Italy. I assess the effects of ecologically relevant heatwaves on behaviours, gametes and reproductive success and compare the effects between conspecifics that adapted to different climates. This approach provides valuable insights into understanding thermal vulnerabilities of tropical species. I am visiting Dr. Wiberg's lab to explore the effects of temperature on sexual conflict, working on multiple isofemale lines of *Drosophila melanogaster* with different levels of sexual conflict. My visit here will provide me with a more holistic view on reproduction, focusing on the molecular level."
 
-**MsC Students**
+**MSc Students**
 
 |![marianne_richardson](/img/marianne_richards_cropped.jpeg){: height="200"; width="200"}|  
 |--|
