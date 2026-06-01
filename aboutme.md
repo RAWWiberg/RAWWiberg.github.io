@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-|![me](/img/me_2022_eimmonen.jpg){: height="400"; width="200"}|  
+|![me](/img/me_2022_eimmonen_small.jpg){: height="400"; width="200"}|  
 |--|
 ||
 

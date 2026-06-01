@@ -9,7 +9,7 @@ Although I don't always have positions advertised, I am always looking for motiv
 
 **Post-Docs**
 
-|![jessica_hadlow](/img/jessica_hadlow_cropped.png){: height="200"; width="200"}|  
+|![jessica_hadlow](/img/jessica_hadlow_cropped_small.png){: height="200"; width="200"}|  
 |--|
 |**Jessica Hadlow**|
 
