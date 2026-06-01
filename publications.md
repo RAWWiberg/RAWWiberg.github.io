@@ -6,9 +6,21 @@ title: Publications
 If you have trouble accessing the PDFs via the links below, send me an e-mail.  
 (\* - corresponding author, 1 - joint first author)
 
+**2026**  
+[preprint] Martyna K. Zwoinska, **R. Axel W. Wiberg**, Milena Trabert, Philipp Kaufmann & Elina Immonen. From constraint to opportunity: Relaxing sexual antagonism reveals adaptive potential maintained by balancing selection. *bioRxiv* 2026.02.04.703537
+
+**2025**  
+[submitted/preprint] Alma Thorson, Rhonda R. Snook, **R. Axel W. Wiberg\***. Sexually antagonistic coevolution drives genetic variation in the sex-peptide network with consequences for mating interactions. *bioRxiv*. 2025.11.04.686516
+
+Varpu Pärssinen, Luc F. Bussière, **R. Axel W. Wiberg**, Emma Wahlberg, Natasha R. LeBas, Martin Irestedt, Charlotta Kvarnemo. (2026). Evolution of female ornamentation in dance flies: valuable gifts are worth dressing up for. *Evolution*. **80**: 154-167.
+
+**R. Axel W. Wiberg\***, Martyna K. Zwoinska, Philipp Kaufman, James Howie & Elina Immonen. Sex-biased gene expression under sexually antagonistic and sex-limited selection. *Molecular Biology and Evolution*. **42**: msaf178.
+
+Joaquin C. B. Nunez, Marta Coronado-Zamora, Mathieu Gautier, Martin Kapun, Sonja Steindl, Lino Ometto, Margot Paris, Katja M. Hoedjes, Julia Beets, **R. Axel W. Wiberg**, Giovanni R. Mazzeo, David J. Bass, Alejandro Sanchez-Gracia, Aleksandra Patenkovic, Amanda Glaser-Schmitt, Antonio Barbadilla, Balázs Kiss, Banu Sebnem Önder, Bregje Wertheim, Candice Deschamps, Carlos E. Arboleda-Bustos, Carlos Tinedo, Christian Schlötterer, Claudia Fricke, Cristina Amor-Jimenez, Cristina P. Vieira, Cristina Vieira, Darren J. Obbard, Denys Radionov, Dmitry Mukha, Dorcas Orengo, Doris Vela, Eduardo Amat, Elgion Loreto, Esra Durmaz Mitchell, Eva Puerma, Florencia Camus, Herve Colinet, Iryna Kozeretska, Jan Hrcek, Jesper G. Sørensen, Jessica Abbott, John Parsch, Jorge Vieira, Khalid Khfif, Maaria Kankare, Mads F. Schou, Manolis Ladoukakis, Maria Pilar Garcia Guerreiro, Maria-Eleni Parakatselaki, Mariia Zinchenko, Marija Savic Veselinovic, Marija Tanaskovic, Marina Stamenkovic-Radak, Marta Pascual, Michael G. Ritchie, Michel Rera, Mihailo Jelić, Mina Hojat Ansari, Mina Rakic, Miriam Merenciano, Nadiia Pirko, Nazar Gora, Nicolas Rode, Oleksandra Protsenko, Omar Rota-Stabelli, Patricia Gibert, Krzysztof Wojciechowski, Pinar Kohlmeier, Priscilla A. Erickson, Renaud Vitalis, Sara Guirao-Rico, Sebastian E. Ramos-Onsins, Sònia Casillas, Svitlana Serga, Tânia F. Paulo, Venera Tyukmaeva, Pau Carazo, Natalia Hernandes, Envel Kerdaffrec, Clancy Lawler, Lilian Madi-Ravazzi, Vladimir Alatortsev, Elena Pasyukova, Zahara Alonso, Antonio J. Buendia-Ruiz, Maria Luisa Espinosa-Jimenez, Maria Josefa Gomez-Julian, Silvana Castillo, Jose Luis Olmo, Paloma Sepulveda, Joan Torro, Christian Feller, Roberto Torres, Dmitri Petrov, Paul Schmidt, Thomas Flatt, Alan O. Bergland, Josefa Gonzalez. Footprints of worldwide adaptation in structured populations of D. melanogaster through the expanded DEST 2.0 genomic resource. *Molecular Biology and Evolution*. **42**: msaf132.
+
 **2024**  
 **R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Varpu Pärssinen, Darryl T. Gwynne & Luc F. Bussière. Sexually antagonistic co-evolution can explain female display signals and male sensory adaptations. *Evolution*. **78**:2006-2016. [PDF](https://academic.oup.com/evolut/advance-article-pdf/doi/10.1093/evolut/qpae133/59459334/qpae133.pdf)  
-Press for this paper:
+Press for this paper:  
 [Newsweek](https://www.newsweek.com/evolution-flies-male-female-sharpen-eyesight-2026374)  
 [Aftonbladet](https://www.aftonbladet.se/nyheter/a/73orm4/damernas-raggknep-stor-mage-och-hariga-ben)  
 [Göteborgs-posten](https://www.gp.se/nyheter/sverige/damernas-raggknep-stor-mage-och-hariga-ben.dab59e8d-a5ba-518d-bd8d-effcf32ccbf7)  
