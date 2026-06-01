@@ -39,15 +39,17 @@ Yasmin is a PhD student in the research group of [Dr. Cristina Tuni](https://sit
 
 **Former students**  
 
+**Inas Albrejy**, BSc Student 2026, Stockholm University
+Completed her BSc thesis titled "Effect of environmental change on sex-changing sequentially hermaphroditic fish."
+
 **Filip Tyberg**, BSc Student 2026, Stockholm University
 Completed his BSc thesis titled "How Are Anthropogenic Urban Stressors/Properties Affecting the Fitness of the Feral Pigeon (*Columba livia*)? - A Review"
 
 **Alma Thorson**
 
-Alma Thorson was a Masters student in my group. Her project investigated the fitness consequences for females of natural variation in re-mating rates among *D. melanogaster* populations.
+Alma Thorson was a Masters student in my group (2024-2025). Her project investigated the fitness consequences for females of natural variation in re-mating rates among *D. melanogaster* populations.
 
-Alma presented her thesis titled "Testing genomic predictions of
-sexually antagonistic coevolution: Natural variation in the sex-peptide network in *Drosophila melanogaster*" on the 24th January 2025  
+Alma presented her thesis titled "Testing genomic predictions of sexually antagonistic coevolution: Natural variation in the sex-peptide network in *Drosophila melanogaster*" on the 24th January 2025  
 
 **Lovisa Utsi**, BSc Student 2023, Stockholm University  
 Completed her BSc thesis titled "How can male song contribute to sexual selection in humpback whales?"
